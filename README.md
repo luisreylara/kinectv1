@@ -3,6 +3,9 @@
 ```
 CANKinectPhysics
 https://github.com/enauman/CANKinectPhysics
+
+Kinect Physics Tutorial for Processing
+https://www.creativeapplications.net/processing/kinect-physics-tutorial-for-processing/
 ```
 
 
